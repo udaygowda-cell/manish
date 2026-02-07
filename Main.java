@@ -140,7 +140,7 @@ public class Main{
         }
 }
 }
-*/
+
 
 public class Main
 {
@@ -157,3 +157,22 @@ public class Main
 
     }
 }
+*/
+// import java.util.Arrays;
+// public class Main{
+//     public static void main(String[] args){
+//         int [] a = new int[3];
+//         a[0]=4;
+//         a[1]=2;
+//         a[2]=3;
+//         System.out.println(a[0]);
+//         Arrays.sort(a); //sort
+//         System.out.println(a[0]); //after sort
+//     }
+// }
+
+public class Main{
+   public static void main(String[] args){
+    int [] [] a= {{1,2,3}, {1,4,5}};
+    System.out.println(a[1][1]);
+   }}
