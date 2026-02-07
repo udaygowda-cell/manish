@@ -170,9 +170,9 @@ public class Main
 //         System.out.println(a[0]); //after sort
 //     }
 // }
-
+//multidimentional array
 public class Main{
    public static void main(String[] args){
     int [] [] a= {{1,2,3}, {1,4,5}};
-    System.out.println(a[1][1]);
+    System.out.println(a[0][2]);
    }}
